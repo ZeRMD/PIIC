@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raulm\\Fabio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D11264F5-7BBC-2024-B08B-43D876120BB9}|Assembly-CSharp.csproj|c:\\users\\raulm\\fabio\\assets\\scrips\\servidorxuxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11264F5-7BBC-2024-B08B-43D876120BB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\servidorxuxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11264F5-7BBC-2024-B08B-43D876120BB9}|Assembly-CSharp.csproj|C:\\Users\\raulm\\Fabio\\assets\\scrips\\ui button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11264F5-7BBC-2024-B08B-43D876120BB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\ui button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11264F5-7BBC-2024-B08B-43D876120BB9}|Assembly-CSharp.csproj|C:\\Users\\raulm\\Fabio\\assets\\scrips\\anchorgameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11264F5-7BBC-2024-B08B-43D876120BB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\anchorgameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11264F5-7BBC-2024-B08B-43D876120BB9}|Assembly-CSharp.csproj|C:\\Users\\raulm\\Fabio\\assets\\scrips\\launch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11264F5-7BBC-2024-B08B-43D876120BB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\launch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11264F5-7BBC-2024-B08B-43D876120BB9}|Assembly-CSharp.csproj|C:\\Users\\raulm\\Fabio\\assets\\scrips\\cair do bloco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11264F5-7BBC-2024-B08B-43D876120BB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\cair do bloco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11264F5-7BBC-2024-B08B-43D876120BB9}|Assembly-CSharp.csproj|C:\\Users\\raulm\\Fabio\\assets\\scrips\\updateipoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11264F5-7BBC-2024-B08B-43D876120BB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\updateipoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11264F5-7BBC-2024-B08B-43D876120BB9}|Assembly-CSharp.csproj|C:\\Users\\raulm\\Fabio\\assets\\scrips\\currentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11264F5-7BBC-2024-B08B-43D876120BB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\currentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11264F5-7BBC-2024-B08B-43D876120BB9}|Assembly-CSharp.csproj|C:\\Users\\raulm\\Fabio\\assets\\scrips\\configupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11264F5-7BBC-2024-B08B-43D876120BB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\configupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServidorXuxi.cs",
+              "DocumentMoniker": "C:\\Users\\raulm\\Fabio\\Assets\\Scrips\\ServidorXuxi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\ServidorXuxi.cs",
+              "ToolTip": "C:\\Users\\raulm\\Fabio\\Assets\\Scrips\\ServidorXuxi.cs",
+              "RelativeToolTip": "Assets\\Scrips\\ServidorXuxi.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T21:59:29.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnchorGameObject.cs",
+              "DocumentMoniker": "C:\\Users\\raulm\\Fabio\\Assets\\Scrips\\AnchorGameObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\AnchorGameObject.cs",
+              "ToolTip": "C:\\Users\\raulm\\Fabio\\Assets\\Scrips\\AnchorGameObject.cs",
+              "RelativeToolTip": "Assets\\Scrips\\AnchorGameObject.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T11:15:23.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateIPOperator.cs",
+              "DocumentMoniker": "C:\\Users\\raulm\\Fabio\\Assets\\Scrips\\UpdateIPOperator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\UpdateIPOperator.cs",
+              "ToolTip": "C:\\Users\\raulm\\Fabio\\Assets\\Scrips\\UpdateIPOperator.cs",
+              "RelativeToolTip": "Assets\\Scrips\\UpdateIPOperator.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwCYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T15:32:21.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Launch.cs",
+              "DocumentMoniker": "C:\\Users\\raulm\\Fabio\\Assets\\Scrips\\Launch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\Launch.cs",
+              "ToolTip": "C:\\Users\\raulm\\Fabio\\Assets\\Scrips\\Launch.cs",
+              "RelativeToolTip": "Assets\\Scrips\\Launch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T13:20:44.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CurrentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\raulm\\Fabio\\Assets\\Scrips\\CurrentStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\CurrentStatus.cs",
+              "ToolTip": "C:\\Users\\raulm\\Fabio\\Assets\\Scrips\\CurrentStatus.cs",
+              "RelativeToolTip": "Assets\\Scrips\\CurrentStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-02-09T13:18:39.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\raulm\\Fabio\\Assets\\Scrips\\ConfigUpdate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\ConfigUpdate.cs",
+              "ToolTip": "C:\\Users\\raulm\\Fabio\\Assets\\Scrips\\ConfigUpdate.cs",
+              "RelativeToolTip": "Assets\\Scrips\\ConfigUpdate.cs",
+              "ViewState": "AQIAABAAAAAAnpmZmZkhwDIAAAAeAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-02-09T13:18:39.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cair do Bloco.cs",
+              "DocumentMoniker": "C:\\Users\\raulm\\Fabio\\Assets\\Scrips\\Cair do Bloco.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\Cair do Bloco.cs",
+              "ToolTip": "C:\\Users\\raulm\\Fabio\\Assets\\Scrips\\Cair do Bloco.cs",
+              "RelativeToolTip": "Assets\\Scrips\\Cair do Bloco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-08T11:05:01.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI Button.cs",
+              "DocumentMoniker": "C:\\Users\\raulm\\Fabio\\Assets\\Scrips\\UI Button.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\UI Button.cs",
+              "ToolTip": "C:\\Users\\raulm\\Fabio\\Assets\\Scrips\\UI Button.cs",
+              "RelativeToolTip": "Assets\\Scrips\\UI Button.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAEwAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T18:32:13.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

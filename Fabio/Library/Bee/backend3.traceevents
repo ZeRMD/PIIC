@@ -1,0 +1,545 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1708354072329052, "dur":33958, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708354072363026, "dur":428, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708354072363522, "dur":70, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1708354072363592, "dur":428, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708354072364211, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1708354072364312, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1708354072364651, "dur":149, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072364829, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072364937, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072365061, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072365312, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072365405, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072365469, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072365581, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072365741, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072365851, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072365974, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072366073, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072366716, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072367182, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072367374, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072367723, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072367959, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708354072371530, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/UnityEngine.LocalizationModule-FeaturesChecked.txt_c5g9.info" }}
+,{ "pid":12345, "tid":0, "ts":1708354072371746, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/UnityEngine.PerformanceReportingModule-FeaturesChecked.txt_pjc8.info" }}
+,{ "pid":12345, "tid":0, "ts":1708354072371905, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.PhysicsModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":0, "ts":1708354072371975, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/UnityEngine.PhysicsModule-FeaturesChecked.txt_2l1t.info" }}
+,{ "pid":12345, "tid":0, "ts":1708354072372625, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/UnityEngine.StreamingModule-FeaturesChecked.txt_hlqf.info" }}
+,{ "pid":12345, "tid":0, "ts":1708354072374160, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/UnityEngine.UnityWebRequestAudioModule-FeaturesChecked.txt_1uoh.info" }}
+,{ "pid":12345, "tid":0, "ts":1708354072374293, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/UnityEngine.UnityWebRequestModule-FeaturesChecked.txt_jk15.info" }}
+,{ "pid":12345, "tid":0, "ts":1708354072374352, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UnityWebRequestTextureModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":0, "ts":1708354072375797, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UI-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":0, "ts":1708354072377263, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/System.Data.DataSetExtensions-FeaturesChecked.txt_p7rm.info" }}
+,{ "pid":12345, "tid":0, "ts":1708354072377774, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Net.Http-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":0, "ts":1708354072378244, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Xml.Linq-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":0, "ts":1708354072364062, "dur":15902, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708354072379971, "dur":16508, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708354072396479, "dur":94, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708354072396576, "dur":146, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708354072396879, "dur":3909, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1708354072364636, "dur":15344, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072379983, "dur":5748, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072385787, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072385862, "dur":76, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/Unity.Mathematics-FeaturesChecked.txt_bwkn.info" }}
+,{ "pid":12345, "tid":1, "ts":1708354072385943, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072386013, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072386100, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072386178, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072386255, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072386490, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072386603, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072386701, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072386769, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072386835, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072386914, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072386974, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072387033, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.ParticleSystemModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":1, "ts":1708354072387202, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072387282, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.IMGUIModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":1, "ts":1708354072387380, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072387448, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.ClothModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":1, "ts":1708354072387554, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072387633, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.CoreModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":1, "ts":1708354072387724, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072387786, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/mscorlib-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":1, "ts":1708354072387871, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072388001, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/netstandard-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":1, "ts":1708354072388097, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072388309, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708354072388174, "dur":222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Core-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":1, "ts":1708354072388396, "dur":159, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072388573, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.2D.SpriteShape.Runtime-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":1, "ts":1708354072388718, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072388825, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.TextRenderingModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":1, "ts":1708354072388988, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072389070, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UnityWebRequestAudioModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":1, "ts":1708354072389206, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072389268, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.2D.IK.Runtime-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":1, "ts":1708354072389375, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072389431, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.2D.Tilemap.Extras-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":1, "ts":1708354072389586, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.2D.Common.Runtime-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":1, "ts":1708354072389744, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.ScreenCaptureModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":1, "ts":1708354072389868, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072389924, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmono-native.so" }}
+,{ "pid":12345, "tid":1, "ts":1708354072390028, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\res.xxxhdpi.app_icon_round.png" }}
+,{ "pid":12345, "tid":1, "ts":1708354072390027, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-xxxhdpi/app_icon_round.png" }}
+,{ "pid":12345, "tid":1, "ts":1708354072390379, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072390440, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar" }}
+,{ "pid":12345, "tid":1, "ts":1708354072390510, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072390576, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\values\\styles.xml" }}
+,{ "pid":12345, "tid":1, "ts":1708354072390573, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/res/values/styles.xml" }}
+,{ "pid":12345, "tid":1, "ts":1708354072390628, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072390691, "dur":210, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\values\\freeformwindow.xml" }}
+,{ "pid":12345, "tid":1, "ts":1708354072390689, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/res/values/freeformwindow.xml" }}
+,{ "pid":12345, "tid":1, "ts":1708354072390903, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072390969, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072391038, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072391194, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072391261, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072391344, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072391416, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072391479, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072391543, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072391609, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072391682, "dur":253, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072391962, "dur":357, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708354072392332, "dur":4124, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072364877, "dur":15119, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072379999, "dur":1155, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072381154, "dur":235, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072381389, "dur":4402, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072385805, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072385923, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072386002, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072386089, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072386148, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072386498, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072386582, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072386668, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072386762, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072386845, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072386965, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072387024, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.LocalizationModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":2, "ts":1708354072387200, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072387415, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeLocalCacheTool.exe" }}
+,{ "pid":12345, "tid":2, "ts":1708354072387297, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.AIModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":2, "ts":1708354072387569, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072387639, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.CrashReportingModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":2, "ts":1708354072387722, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072387782, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.GridModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":2, "ts":1708354072387939, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Numerics-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":2, "ts":1708354072388065, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072388138, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.ComponentModel.Composition-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":2, "ts":1708354072388231, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072388296, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Runtime-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":2, "ts":1708354072388396, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072388484, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.GameCenterModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":2, "ts":1708354072388684, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072388777, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.TerrainModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":2, "ts":1708354072388946, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072389069, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UnityTestProtocolModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":2, "ts":1708354072389189, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072389255, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.VRModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":2, "ts":1708354072389356, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072389448, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.InternalAPIEngineBridge.001-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":2, "ts":1708354072389536, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072389600, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.Mathematics-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":2, "ts":1708354072389678, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072389796, "dur":89, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.Mathematics-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":2, "ts":1708354072389887, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libunity.so" }}
+,{ "pid":12345, "tid":2, "ts":1708354072390156, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072390300, "dur":252, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\res.xxxhdpi.app_icon.png" }}
+,{ "pid":12345, "tid":2, "ts":1708354072390298, "dur":255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-xxxhdpi/app_icon.png" }}
+,{ "pid":12345, "tid":2, "ts":1708354072390554, "dur":178, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072390738, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708354072390792, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072390953, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072391012, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072391079, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072391206, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072391317, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072391401, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072391468, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072391547, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708354072391606, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072391689, "dur":150, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072391850, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072391967, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072392087, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072392152, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072392222, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072392279, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708354072392337, "dur":4117, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072364716, "dur":15272, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072379991, "dur":1152, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072381144, "dur":746, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072381890, "dur":3894, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072385793, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072385896, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072386009, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072386093, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072386216, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072386347, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072386411, "dur":287, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072386741, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072386828, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072386927, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072387052, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.ImageConversionModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":3, "ts":1708354072387208, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072387276, "dur":694, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/Android/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1708354072387971, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072388058, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.SubsystemsModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":3, "ts":1708354072388200, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072388261, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Data-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":3, "ts":1708354072388369, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072388433, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.2D.PixelPerfect-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":3, "ts":1708354072388520, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072388576, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.StreamingModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":3, "ts":1708354072388721, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.TLSModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":3, "ts":1708354072388871, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.TilemapModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":3, "ts":1708354072389022, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UmbraModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":3, "ts":1708354072389199, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072389298, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.VehiclesModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":3, "ts":1708354072389438, "dur":159, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072389610, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":3, "ts":1708354072389740, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072389825, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072389881, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmain.so" }}
+,{ "pid":12345, "tid":3, "ts":1708354072389986, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmonobdwgc-2.0.so" }}
+,{ "pid":12345, "tid":3, "ts":1708354072390055, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072390160, "dur":114, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\res.hdpi.app_icon_round.png" }}
+,{ "pid":12345, "tid":3, "ts":1708354072390158, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-hdpi/app_icon_round.png" }}
+,{ "pid":12345, "tid":3, "ts":1708354072390275, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072390384, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072390472, "dur":98, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\values\\ids.xml" }}
+,{ "pid":12345, "tid":3, "ts":1708354072390469, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/res/values/ids.xml" }}
+,{ "pid":12345, "tid":3, "ts":1708354072390571, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072390689, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\values-v30\\freeformwindow.xml" }}
+,{ "pid":12345, "tid":3, "ts":1708354072390685, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/res/values-v30/freeformwindow.xml" }}
+,{ "pid":12345, "tid":3, "ts":1708354072390768, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072390907, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072391210, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072391311, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072391409, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072391596, "dur":295, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072391915, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072392056, "dur":248, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708354072392320, "dur":4132, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072365022, "dur":14982, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072380007, "dur":1182, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072381190, "dur":4550, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072385787, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072385890, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072385989, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072386073, "dur":91, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/Unity.Burst-FeaturesChecked.txt_5voi.info" }}
+,{ "pid":12345, "tid":4, "ts":1708354072386173, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072386328, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072386404, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072386493, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072386576, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072386666, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072386738, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072386890, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072387043, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.PerformanceReportingModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":4, "ts":1708354072387201, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072387268, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.InputLegacyModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":4, "ts":1708354072387380, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072387453, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.AssetBundleModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":4, "ts":1708354072387642, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072387708, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.GIModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":4, "ts":1708354072387843, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Runtime.Serialization-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":4, "ts":1708354072387925, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072387989, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.Burst.Unsafe-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":4, "ts":1708354072388142, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.IO.Compression-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":4, "ts":1708354072388291, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Mono.Security-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":4, "ts":1708354072388394, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072388461, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.TextMeshPro-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":4, "ts":1708354072388576, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072388631, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.TerrainPhysicsModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":4, "ts":1708354072388724, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072388800, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.TextCoreTextEngineModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":4, "ts":1708354072388890, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072388960, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UnityAnalyticsCommonModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":4, "ts":1708354072389069, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072389127, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.Burst-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":4, "ts":1708354072389264, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072389343, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.WindModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":4, "ts":1708354072389573, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.2D.Animation.Runtime-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":4, "ts":1708354072389679, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072389750, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.SpriteMaskModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":4, "ts":1708354072389860, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072389934, "dur":387, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Generate Manifests Library/Bee/artifacts/Android/Manifest/LauncherManifestDiag.txt (+3 others)" }}
+,{ "pid":12345, "tid":4, "ts":1708354072390322, "dur":234, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072390568, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\values-v28\\styles.xml" }}
+,{ "pid":12345, "tid":4, "ts":1708354072390564, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/res/values-v28/styles.xml" }}
+,{ "pid":12345, "tid":4, "ts":1708354072390638, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072390707, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\res.ldpi.app_icon.png" }}
+,{ "pid":12345, "tid":4, "ts":1708354072390706, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-ldpi/app_icon.png" }}
+,{ "pid":12345, "tid":4, "ts":1708354072390778, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072390840, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072390931, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072391005, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072391176, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072391260, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072391321, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072391390, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072391452, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072391577, "dur":145, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708354072391730, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072391821, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072391885, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072391953, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072392014, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072392087, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072392213, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708354072392324, "dur":4131, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072365171, "dur":14842, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072380017, "dur":1179, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072381196, "dur":4599, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072385805, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072385965, "dur":68, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/Unity.2D.Tilemap.Extras-FeaturesChecked.txt_0w77.info" }}
+,{ "pid":12345, "tid":5, "ts":1708354072386041, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072386116, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072386180, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072386409, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072386472, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072386568, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072386657, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072386747, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072386952, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072387020, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.InputModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":5, "ts":1708354072387201, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072387337, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.AnimationModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":5, "ts":1708354072387463, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072387548, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":5, "ts":1708354072387646, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072387705, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Xml-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":5, "ts":1708354072387840, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Transactions-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":5, "ts":1708354072387925, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072387997, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Net.Http-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":5, "ts":1708354072388081, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072388146, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Drawing-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":5, "ts":1708354072388251, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072388315, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Newtonsoft.Json-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":5, "ts":1708354072388393, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072388454, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.VisualScripting.Antlr3.Runtime-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":5, "ts":1708354072388548, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072388611, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.SpriteShapeModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":5, "ts":1708354072388722, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072388790, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UnityAnalyticsModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":5, "ts":1708354072388891, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072388952, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UIModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":5, "ts":1708354072389066, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072389170, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UnityWebRequestWWWModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":5, "ts":1708354072389265, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072389330, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.XRModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":5, "ts":1708354072389484, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UI-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":5, "ts":1708354072389644, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.PropertiesModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":5, "ts":1708354072390337, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"ProjectSettings\\BurstAotSettings_Android.json" }}
+,{ "pid":12345, "tid":5, "ts":1708354072390436, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\raulm\\Fabio\\Library\\PackageCache\\com.unity.burst@1.8.11\\.Runtime\\bcl.exe" }}
+,{ "pid":12345, "tid":5, "ts":1708354072389869, "dur":626, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/Android/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":5, "ts":1708354072390496, "dur":144, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708354072391211, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/lib_burst_generated.so" }}
+,{ "pid":12345, "tid":5, "ts":1708354072392433, "dur":3969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/lib_burst_generated.so" }}
+,{ "pid":12345, "tid":6, "ts":1708354072365307, "dur":14715, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072380026, "dur":1134, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072381160, "dur":4623, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072385793, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072385900, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072385993, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072386144, "dur":293, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072386487, "dur":187, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072386721, "dur":554, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072387295, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.AccessibilityModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":6, "ts":1708354072387405, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072387467, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.ContentLoadModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":6, "ts":1708354072387583, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072387669, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.DirectorModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":6, "ts":1708354072387772, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072387833, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.HotReloadModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":6, "ts":1708354072387924, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072387984, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.ServiceModel.Internals-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":6, "ts":1708354072388061, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072388120, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.EnterpriseServices-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":6, "ts":1708354072388242, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072388300, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.Collections.LowLevel.ILSupport-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":6, "ts":1708354072388388, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072388457, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UnityWebRequestAssetBundleModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":6, "ts":1708354072388549, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072388615, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.SubstanceModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":6, "ts":1708354072388715, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072388772, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.TextCoreFontEngineModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":6, "ts":1708354072388925, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UnityConnectModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":6, "ts":1708354072389022, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072389081, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UnityWebRequestModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":6, "ts":1708354072389261, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072389319, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.VideoModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":6, "ts":1708354072389462, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.VisualScripting.Core-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":6, "ts":1708354072389596, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Xml.Linq-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":6, "ts":1708354072389675, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072389738, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.SharedInternalsModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":6, "ts":1708354072389857, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072389977, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libMonoPosixHelper.so" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390097, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\res.xxhdpi.app_icon_round.png" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390095, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-xxhdpi/app_icon_round.png" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390152, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390212, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\res.mdpi.app_icon_round.png" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390211, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon_round.png" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390318, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\res.xxhdpi.app_icon.png" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390318, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-xxhdpi/app_icon.png" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390370, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390436, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390506, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\values-v21\\styles.xml" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390503, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/res/values-v21/styles.xml" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390615, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390677, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390737, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390813, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390878, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072390998, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072391145, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072391272, "dur":198, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072391483, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072391633, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072391754, "dur":188, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072391956, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072392022, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072392093, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072392164, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072392225, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\res.hdpi.app_icon.png" }}
+,{ "pid":12345, "tid":6, "ts":1708354072392224, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-hdpi/app_icon.png" }}
+,{ "pid":12345, "tid":6, "ts":1708354072392278, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708354072392341, "dur":4135, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072365490, "dur":14545, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072380039, "dur":1229, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072381269, "dur":4525, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072385804, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072385909, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072385960, "dur":64, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/Unity.InternalAPIEngineBridge.001-FeaturesChecked.txt_sxcr.info" }}
+,{ "pid":12345, "tid":7, "ts":1708354072386029, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072386098, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072386163, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072386275, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072386377, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072386484, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072386663, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072386749, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072386825, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072386897, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072387014, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.JSONSerializeModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":7, "ts":1708354072387202, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072387273, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.ARModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":7, "ts":1708354072387371, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072387462, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.AudioModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":7, "ts":1708354072387593, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072387699, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.DSPGraphModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":7, "ts":1708354072387871, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072387934, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Security-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":7, "ts":1708354072388097, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.IO.Compression.FileSystem-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":7, "ts":1708354072388273, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Data.DataSetExtensions-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":7, "ts":1708354072388412, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.VisualScripting.State-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":7, "ts":1708354072388604, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.Timeline-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":7, "ts":1708354072388779, "dur":275, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072389054, "dur":55, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.Timeline-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":7, "ts":1708354072389110, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UnityWebRequestTextureModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":7, "ts":1708354072389231, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072389284, "dur":87, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UnityWebRequestTextureModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":7, "ts":1708354072389372, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Assembly-CSharp-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":7, "ts":1708354072389544, "dur":164, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072389714, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.ProfilerModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":7, "ts":1708354072389814, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072389898, "dur":466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GuidGenerator C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/unity_app_guid" }}
+,{ "pid":12345, "tid":7, "ts":1708354072390365, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072390435, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/java/com/unity3d/player/UnityPlayerActivity.java" }}
+,{ "pid":12345, "tid":7, "ts":1708354072390501, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072390569, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Apk\\res\\values-v31\\styles.xml" }}
+,{ "pid":12345, "tid":7, "ts":1708354072390568, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/res/values-v31/styles.xml" }}
+,{ "pid":12345, "tid":7, "ts":1708354072390627, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072390701, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\res.mdpi.app_icon.png" }}
+,{ "pid":12345, "tid":7, "ts":1708354072390699, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon.png" }}
+,{ "pid":12345, "tid":7, "ts":1708354072390752, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072390879, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072390956, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072391019, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072391083, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072391188, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072391333, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072391398, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072391458, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072391614, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072391695, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072391770, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072391834, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072391958, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072392025, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072392103, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072392171, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072392234, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708354072392290, "dur":4173, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072365609, "dur":14442, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072380052, "dur":1212, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072381264, "dur":4528, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072385796, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072385912, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072385989, "dur":51, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/Unity.VisualScripting.Flow-FeaturesChecked.txt_6qpt.info" }}
+,{ "pid":12345, "tid":8, "ts":1708354072386048, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072386117, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072386192, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072386262, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072386340, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072386401, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072386487, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072386659, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072386755, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072386929, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072387008, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072387151, "dur":200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.Physics2DModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":8, "ts":1708354072387352, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072387533, "dur":89, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeBuildProgramCommon.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1708354072387624, "dur":144, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeBuildProgramCommon.dll" }}
+,{ "pid":12345, "tid":8, "ts":1708354072387419, "dur":494, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.AndroidJNIModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":8, "ts":1708354072387914, "dur":330, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072388258, "dur":63, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.BuildTools.dll" }}
+,{ "pid":12345, "tid":8, "ts":1708354072388251, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Configuration-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":8, "ts":1708354072388406, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072388505, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.Collections-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":8, "ts":1708354072388645, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072388718, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":8, "ts":1708354072388822, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072388884, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UIElementsModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":8, "ts":1708354072389032, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UnityCurlModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":8, "ts":1708354072389139, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072389202, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.VFXModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":8, "ts":1708354072389368, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072389427, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.VisualScripting.Flow-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":8, "ts":1708354072389535, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072389639, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.PhysicsModule-FeaturesChecked.txt" }}
+,{ "pid":12345, "tid":8, "ts":1708354072389802, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072389912, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072390089, "dur":646, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072390747, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072390811, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072390878, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072390934, "dur":118, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1708354072391057, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072391118, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072391178, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072391246, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072391329, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072391446, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072391517, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072391571, "dur":82, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/raulm/Fabio/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1708354072391661, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072391723, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072391785, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072391852, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072391916, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072392031, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072392097, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072392160, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072392238, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708354072392302, "dur":4173, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708354072405500, "dur":2254, "ph":"X", "name": "ProfilerWriteOutput" }
+,
