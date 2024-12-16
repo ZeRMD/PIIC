@@ -1,8 +1,8 @@
 import socket
 
 # Set the IP address and port number for the server
-server_ip = "localhost"  # Change this to the server's IP address or use "localhost" for local testing
-server_port = 8888       # Choose an available port number
+server_ip = "192.168.2.109"  # Change this to the server's IP address or use "localhost" for local testing
+server_port = 8083       # Choose an available port number
 
 # Create a socket object
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -19,9 +19,6 @@ while True:
     client_socket, client_address = server_socket.accept()
     print(f"Connection from {client_address}")
 
-    # Send a welcome message to the client
-    client_socket.send("Hello, Client!".encode('utf-8'))
-
     # Receive and echo messages from the client
     while True:
         data = client_socket.recv(1024)
@@ -30,9 +27,7 @@ while True:
         message = data.decode('utf-8')
         print(f"Received from {client_address}: {message}")
 
-        # Echo the message back to the client
-        client_socket.send(data)
-
     # Close the connection with the client
     print(f"Connection with {client_address} closed")
     client_socket.close()
+    server_socket.listen(1)
